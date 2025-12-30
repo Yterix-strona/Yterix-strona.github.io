@@ -2,23 +2,23 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Moja Strona</title>
+    <title>Profil</title>
     <style>
         body {
-            background-color: #222;
+            background-color: #111;
             display: flex;
-            align-items: center;
             justify-content: center;
+            align-items: center;
             height: 100vh;
             margin: 0;
         }
         img {
-            width: 300px; /* możesz zmienić rozmiar */
+            width: 350px;     /* możesz zmienić */
             border-radius: 15px;
         }
     </style>
 </head>
 <body>
-    <img src="profile.jpeg" alt="Moje zdjęcie">
+    <img src="profile.jpeg" alt="Profil">
 </body>
 </html>
